@@ -1,7 +1,7 @@
 # pythonproject
 This repository contains code for my final project in the programming for cultural heritage course at Pratt Institute
 
-PROJECT NAME: NYC construction projects – untapped Airbnb revenue
+### PROJECT NAME: NYC construction projects – untapped Airbnb revenue
 
 ### Overview
 New York City is one of the largest real estate markets in the world and combined with being a top tourist destination, it puts the city among the most important markets for tech giant Airbnb. According to data from June 2019, New York was the second-largest market in the US in terms of number of listings at the time (reference: https://www.statista.com/chart/18963/most-popular-us-cities-for-airbnb-homeaway/). The growth of the city shows no sign of slowing down, with many large construction projects currently undergoing or planned.
