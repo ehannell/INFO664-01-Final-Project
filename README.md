@@ -5,6 +5,7 @@ New York City is one of the largest real estate markets, as well as one of the w
 This project was carried out to function as a tool for analyzing and geospatially visualizing planned construction in New York City in terms of potential future Airbnb revenue. The end product could be used either internally by Airbnb, or externally by the City of New York, financial companies, or other stakeholders. For example, Airbnb could benefit by observing the areas with the strongest potential in terms of future supply, consequently planning their physical marketing campaigns to target Airbnb hosts in those areas. As another example, financial companies could use the information as a tool for determining future growth, a foundational part of calculating company valuation.
 
 Project Recreation Instructions:
+
 PROJECT MAP - Follow the steps below to recreate the project map.
 1.	Download AB_NYC_2019.csv, final_project_code.py and final_project_bar_chart.py from the Github repository: https://github.com/ehannell/INFO664-01-Final-Project. Disregard the planned_construction_11-25-19.csv. This file contains the planned construction in New York City. However, the code will automatically collect this CSV file, given that you are connected to the Internet. 
 2.	Open final_project_code.py and change the file directory on row 13 to correspond to the location where you put the AB_NYC_2019.csv file.
@@ -12,12 +13,14 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 4.	Run the script
 5.	If executed correctly, there should now be an HTML-file named “airbnb_potential_revenue_NYCmap” in your local project file directory. 
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
+
 BAR CHART - Follow the below steps to recreate the bar chart.
 1.	Download the final_project_bar_chart.py file from the Github repository.
 2.	Change the row 4 file directory to the location where you saved the dataset created in step 3 for the PROJECT MAP recreation.
 3.	Run the final_project_bar_chart.py script. 
 4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. 
  
+
 Method/Work Process: 
 1.	Airbnb data was collected from Kaggle.com, and the planned construction data was derived from NYC Department of Building's Active Major Construction. Both CSV-files are attached in the Github repository.
 2.	The Pandas software library was used for data analysis and manipulation in Python. Two Pandas data frames were created, holding the Airbnb and construction data respectively.
