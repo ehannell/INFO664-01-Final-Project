@@ -35,5 +35,6 @@ BAR CHART - Follow the below steps to recreate the bar chart.
 
 Airbnb data (as of 2019): 
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
 New York City construction (updated continuously): 
 https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html
