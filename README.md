@@ -8,7 +8,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 **Project Recreation Instructions:**
 
 PROJECT MAP - Follow the steps below to recreate the project map.
-1.	Download AB_NYC_2019.csv, final_project_code.py and final_project_bar_chart.py from the Github repository: https://github.com/ehannell/INFO664-01-Final-Project. Disregard the planned_construction_11-25-19.csv. This file contains the planned construction in New York City. However, the code will automatically collect this CSV file, given that you are connected to the Internet. 
+1.	Download AB_NYC_2019.csv, final_project_code.py and final_project_bar_chart.py from the [Github repository](https://github.com/ehannell/INFO664-01-Final-Project). Disregard the planned_construction_11-25-19.csv. This file contains the planned construction in New York City. However, the code will automatically collect this CSV file, given that you are connected to the Internet. 
 2.	Open final_project_code.py and change the file directory on row 13 to correspond to the location where you put the AB_NYC_2019.csv file.
 3.	Change the file directory on row 70 to correspond to the local directory of your computer where you are hosting the other project files, the generated CSV-file is used for creating the bar chart (instructions to follow below).
 4.	Run the script
