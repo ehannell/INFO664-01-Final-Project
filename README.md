@@ -18,8 +18,8 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 BAR CHART - Follow the below steps to recreate the bar chart.
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
 2.	Change the row 4 file directory to the location where you saved the dataset created in step 3 for the PROJECT MAP recreation.
-3.	Run the final_project_bar_chart.py script. 
-4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. 
+3.	Run the **final_project_bar_chart.py** script. 
+4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like [this one](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png). 
  
 
 **Method/Work Process:** 
