@@ -1,6 +1,6 @@
 <h>PROJECT NAME: Planned Construction as Untapped Potential Airbnb Revenue</h>
 
-Project Overview
+###Project Overview
 New York City is one of the largest real estate markets, as well as one of the world’s leading tourist destinations. This combination makes it a highly valuable market for Airbnb. According to a June 2019 report by Statista, New York City was Airbnb’s second-largest market in the US in terms of number of listings at the time. The growth of the city shows no sign of slowing down, with many large construction projects underway or scheduled.  
 This project was carried out to function as a tool for analyzing and geospatially visualizing planned construction in New York City in terms of potential future Airbnb revenue. The end product could be used either internally by Airbnb, or externally by the City of New York, financial companies, or other stakeholders. For example, Airbnb could benefit by observing the areas with the strongest potential in terms of future supply, consequently planning their physical marketing campaigns to target Airbnb hosts in those areas. As another example, financial companies could use the information as a tool for determining future growth, a foundational part of calculating company valuation.
 
