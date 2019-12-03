@@ -13,7 +13,7 @@ _**[This Carto map](https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd
 <iframe width="100%" height="520" frameborder="0" src="https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
-<h3>PROJECT RECREATION INSTRUCTIONS</h3>
+<h3>PROJECT RECREATION INSTRUCTIONS </h3>
 
 **Project Map - Follow the steps below to recreate the project map.**
 1.	Download [AB_NYC_2019.csv](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/AB_NYC_2019.csv), [final_project_code.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_code.py) and the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) from the [Github repository](https://github.com/ehannell/INFO664-01-Final-Project). Disregard the planned_construction_11-25-19.csv. This file contains the data about planned construction in New York City, which will be automatically collected in the script, given that you are connected to the Internet. 
