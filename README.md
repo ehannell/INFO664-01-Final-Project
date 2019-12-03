@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/xhF5nwW" alt="city" width="1000"/>
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="1000"/>
 </p>
 
 <h1>PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
