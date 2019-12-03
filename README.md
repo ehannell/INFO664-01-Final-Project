@@ -12,7 +12,7 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 2.	Open **final_project_code.py** and change the file directory on row 13 to correspond to the location where you put the **AB_NYC_2019.csv** file.
 3.	Change the file directory on row 70 to correspond to the local directory of your computer where you are hosting the other project files, the generated CSV-file is used for creating the bar chart (instructions to follow below).
 4.	Run the script
-5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as [this map](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/airbnb_potential_revenue_NYCmap.html).
+5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as [this map](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG).
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
 BAR CHART - Follow the below steps to recreate the bar chart.
