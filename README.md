@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="1000"/>
+<img src="/assets/images/manhattan.jpeg" width="1000"/>
 </p>
 
 ![picture](/assets/images/manhattan.jpeg)
