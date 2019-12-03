@@ -1,4 +1,4 @@
-![picture](/assets/images/manhattan.jpeg)
+![manhattan](/assets/images/manhattan.jpeg)
 
 <h1>PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
 
@@ -23,11 +23,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as the map picured below (afer step 6).
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
-<p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800"/>
-</p>
-
-![picture](/assets/images/map_snapshot.JPG)
+![map](/assets/images/map_snapshot.JPG)
 
 **BAR CHART - Follow the below steps to recreate the bar chart.**
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
@@ -35,9 +31,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 3.	Run the **final_project_bar_chart.py** script. 
 4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like this one:
 
-<p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png" width="500"/>
-</p>
+![bar_chart](/assets/images/bar_chart.png)
 
 <h3>Project Method/Work Process:</h3>
 
