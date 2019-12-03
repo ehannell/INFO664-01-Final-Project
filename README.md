@@ -7,9 +7,9 @@
 New York City is one of the largest real estate markets, as well as one of the world’s leading tourist destinations. This combination makes it a highly valuable market for Airbnb. According to a June 2019 report by Statista, New York City was Airbnb’s second-largest market in the US in terms of number of listings at the time. The growth of the city shows no sign of slowing down, with many large construction projects underway or scheduled.  
 This project was carried out to function as a tool for analyzing and geospatially visualizing planned construction in New York City in terms of potential future Airbnb revenue. The end product could be used either internally by Airbnb, or externally by the City of New York, financial companies, or other stakeholders. For example, Airbnb could benefit by observing the areas with the strongest potential in terms of future supply, consequently planning their physical marketing campaigns to target Airbnb hosts in those areas. As another example, financial companies could use the information as a tool for determining future growth, a foundational part of calculating company valuation.
 
-
+<p align="center">
 <iframe width="100%" height="520" frameborder="0" src="https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
+</p>
 
 **Project Recreation Instructions:**
 
@@ -21,7 +21,9 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as the map picured below (afer step 6).
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
+<p align="center">
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800" />
+</p>
 
 BAR CHART - Follow the below steps to recreate the bar chart.
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
