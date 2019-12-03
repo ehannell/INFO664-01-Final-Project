@@ -9,10 +9,6 @@ This project was carried out to function as a tool for analyzing and geospatiall
 
 [This Carto map](https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed) is an interactive replica of the Lealet Folium-map that is generated from [final_project_code.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_code.py). The Carto map is based on data from 12/2/2019.
 
-<p align="center">
-<iframe width="100%" height="520" frameborder="0" src="https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-</p>
-
 <table>
     <tr>
         <td><iframe width="100%" height="520" frameborder="0" src="https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></td>
@@ -29,7 +25,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as the map picured below (afer step 6).
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
-![map](/assets/images/map_snapshot.JPG)
+![map](/assets/images/map_snapshot.JPG =250x)
 
 **BAR CHART - Follow the below steps to recreate the bar chart.**
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
