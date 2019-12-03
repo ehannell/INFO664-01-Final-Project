@@ -13,9 +13,9 @@ _**[This Carto map](https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd
 <iframe width="100%" height="520" frameborder="0" src="https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
-<h3>Project Recreation Instructions:</h3>
+<h3>PROJECT RECREATION INSTRUCTIONS</h3>
 
-**PROJECT MAP - Follow the steps below to recreate the project map.**
+**Project Map - Follow the steps below to recreate the project map.**
 1.	Download [AB_NYC_2019.csv](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/AB_NYC_2019.csv), [final_project_code.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_code.py) and the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) from the [Github repository](https://github.com/ehannell/INFO664-01-Final-Project). Disregard the planned_construction_11-25-19.csv. This file contains the data about planned construction in New York City, which will be automatically collected in the script, given that you are connected to the Internet. 
 2.	Open **final_project_code.py** and change the file directory on row 13 to correspond to the location where you put the **AB_NYC_2019.csv** file.
 3.	Change the file directory on row 70 to correspond to the local directory of your computer where you are hosting the other project files. The generated CSV-file is used for creating the bar chart (instructions to follow below).
@@ -25,7 +25,7 @@ _**[This Carto map](https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd
 
 ![map](/assets/images/map_snapshot.JPG)
 
-**BAR CHART - Follow the steps below to recreate the bar chart.**
+**Bar Chart - Follow the steps below to recreate the bar chart.**
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
 2.	Change the row 4 file directory in the script to the location where you saved the dataset (**"const1"**) created in step 3 for the PROJECT MAP recreation.
 3.	Run the **final_project_bar_chart.py** script. 
