@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" | prepend: site.baseurl }}">
+<img src= "https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" | prepend: site.https://ehannell.github.io/INFO664-01-Final-Project/ }}">
 </p>
 
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" alt="city" width="1000"/>
