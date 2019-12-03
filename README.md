@@ -24,6 +24,8 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" class="img-responsive" alt="">
 
+<img src="master/bar_chart.png" width=800 /> ![](images/bar_chart.png)
+
 BAR CHART - Follow the below steps to recreate the bar chart.
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
 2.	Change the row 4 file directory to the location where you saved the dataset created in step 3 for the PROJECT MAP recreation.
