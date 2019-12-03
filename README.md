@@ -1,6 +1,6 @@
 ![manhattan](/assets/images/manhattan.jpeg)
 
-<h1 align:"center">PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
+<h1 align="center">PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
 
 <h3>Project Overview</h3>
 
