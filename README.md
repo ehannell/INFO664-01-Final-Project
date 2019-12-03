@@ -5,7 +5,7 @@
 New York City is one of the largest real estate markets, as well as one of the world’s leading tourist destinations. This combination makes it a highly valuable market for Airbnb. According to a June 2019 report by Statista, New York City was Airbnb’s second-largest market in the US in terms of number of listings at the time. The growth of the city shows no sign of slowing down, with many large construction projects underway or scheduled.  
 This project was carried out to function as a tool for analyzing and geospatially visualizing planned construction in New York City in terms of potential future Airbnb revenue. The end product could be used either internally by Airbnb, or externally by the City of New York, financial companies, or other stakeholders. For example, Airbnb could benefit by observing the areas with the strongest potential in terms of future supply, consequently planning their physical marketing campaigns to target Airbnb hosts in those areas. As another example, financial companies could use the information as a tool for determining future growth, a foundational part of calculating company valuation.
 
-![](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png)
+
 
 **Project Recreation Instructions:**
 
@@ -21,9 +21,10 @@ BAR CHART - Follow the below steps to recreate the bar chart.
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
 2.	Change the row 4 file directory to the location where you saved the dataset created in step 3 for the PROJECT MAP recreation.
 3.	Run the **final_project_bar_chart.py** script. 
-4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like [this one](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png). 
- 
+4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like the one below:
 
+![](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png)
+ 
 **Method/Work Process:** 
 1.	Airbnb data was collected from Kaggle.com, and the planned construction data was derived from NYC Department of Building's Active Major Construction. Both CSV-files are attached in the Github repository.
 2.	The Pandas software library was used for data analysis and manipulation in Python. Two Pandas data frames were created, holding the Airbnb and construction data respectively.
