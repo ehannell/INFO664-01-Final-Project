@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="1000"/>
-![manhattan](INFO664-01-Final-Project/assets/images/manhattan.jpeg)
+![manhattan](ehannell/INFO664-01-Final-Project/assets/images/manhattan.jpeg)
 </p>
 
 <h1>PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
