@@ -38,6 +38,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 </p>
 
 <h3>Project Method/Work Process:</h3>
+
 1.	Airbnb data was collected from Kaggle.com, and the planned construction data was derived from NYC Department of Building's Active Major Construction. Both CSV-files are attached in the Github repository.
 2.	The Pandas software library was used for data analysis and manipulation in Python. Two Pandas data frames were created, holding the Airbnb and construction data respectively.
 3.	Average price per Airbnb unit per borough was assigned to five variables (one for each borough).
