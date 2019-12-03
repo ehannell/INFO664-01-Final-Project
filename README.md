@@ -2,7 +2,7 @@
 
 <h1 align="center">PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
 
-<h3>Project Overview</h3>
+<h3>PROJECT OVERVIEW</h3>
 
 New York City is one of the world's largest real estate markets, as well as a leading tourist destination. This combination makes it a highly valuable market for Airbnb. According to a [June 2019 report](https://www.statista.com/chart/18963/most-popular-us-cities-for-airbnb-homeaway/) by Statista, New York City was Airbnb’s second-largest market in the US in terms of number of listings at the time. The growth of the city shows no sign of slowing down, with many large construction projects underway or scheduled.  
 This project was carried out to function as a tool for analyzing and geospatially visualizing planned construction in New York City in terms of potential future Airbnb revenue. The end product could be used either internally by Airbnb, or externally by the City of New York, financial companies, or other stakeholders. For example, Airbnb could benefit by observing the areas with the strongest potential in terms of future supply, consequently planning their physical marketing campaigns to target Airbnb hosts in those areas. As another example, financial companies could use the information as a tool for determining future growth, a foundational part of calculating company valuation.
@@ -33,7 +33,7 @@ _**[This Carto map](https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd
 
 ![bar_chart](/assets/images/bar_chart.png)
 
-<h3>Project Method/Work Process:</h3>
+<h3>PROJECT WORK PROCESS</h3>
 
 1.	Airbnb data was collected from Kaggle.com, and the planned construction data was derived from NYC Department of Building's Active Major Construction. Both CSV-files are attached in the [Github repository](https://github.com/ehannell/INFO664-01-Final-Project).
 2.	The Pandas software library was used for data analysis and manipulation in Python. Two Pandas data frames were created, holding the Airbnb and construction data respectively.
@@ -43,7 +43,7 @@ _**[This Carto map](https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd
 6.	Labels were added to provide enhanced understandability of the map so that when a bubble is clicked, a window opens up and displays the potential revenue. 
 7.	To generate further insight, I create a simple bar chart visualization using Matplotlib in another Python script. 
 
-<h3>Data Sources:</h3>
+<h3>DATA SOURCES</h3>
 
 - [Airbnb data (as of 2019)](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 - [New York City construction (updated continuously)](https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html)
