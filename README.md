@@ -10,6 +10,9 @@ New York City is one of the largest real estate markets, as well as one of the w
 This project was carried out to function as a tool for analyzing and geospatially visualizing planned construction in New York City in terms of potential future Airbnb revenue. The end product could be used either internally by Airbnb, or externally by the City of New York, financial companies, or other stakeholders. For example, Airbnb could benefit by observing the areas with the strongest potential in terms of future supply, consequently planning their physical marketing campaigns to target Airbnb hosts in those areas. As another example, financial companies could use the information as a tool for determining future growth, a foundational part of calculating company valuation.
 
 
+<iframe width="100%" height="520" frameborder="0" src="https://erikhannell.carto.com/builder/ebd3ebe6-a48f-427e-bcd1-67fd74617154/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
 **Project Recreation Instructions:**
 
 PROJECT MAP - Follow the steps below to recreate the project map.
