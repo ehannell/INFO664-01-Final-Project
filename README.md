@@ -24,7 +24,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
 <p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="600" />
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800" />
 </p>
 
 **BAR CHART - Follow the below steps to recreate the bar chart.**
