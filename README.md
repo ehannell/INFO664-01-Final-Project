@@ -24,7 +24,7 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" class="img-responsive" alt="">
-
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800" />
 
 BAR CHART - Follow the below steps to recreate the bar chart.
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
