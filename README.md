@@ -1,6 +1,4 @@
-
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" class="img-responsive" alt="">
-
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="800" />
 
 **PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE**
 
@@ -23,7 +21,6 @@ PROJECT MAP - Follow the steps below to recreate the project map.
 5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as the map picured below (afer step 6).
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" class="img-responsive" alt="">
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800" />
 
 BAR CHART - Follow the below steps to recreate the bar chart.
@@ -32,8 +29,7 @@ BAR CHART - Follow the below steps to recreate the bar chart.
 3.	Run the **final_project_bar_chart.py** script. 
 4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like this one:
 
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png" class="img-responsive" alt="">
-
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png" width="800" />
 
 **Project Method/Work Process:** 
 1.	Airbnb data was collected from Kaggle.com, and the planned construction data was derived from NYC Department of Building's Active Major Construction. Both CSV-files are attached in the Github repository.
