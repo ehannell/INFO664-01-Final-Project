@@ -1,5 +1,6 @@
 
 ![](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg)
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" class="img-responsive" alt="">
 
 
 **PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE**
