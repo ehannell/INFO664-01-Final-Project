@@ -2,7 +2,7 @@
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="1000" />
 </p>
 
-**PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE**
+<h1>**PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE**</h1>
 
 **Project Overview**
 
