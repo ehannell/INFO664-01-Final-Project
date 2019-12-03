@@ -1,8 +1,8 @@
 <p align="center">
-<img src="/assets/images/manhattan.jpeg" width="1000"/>
+<img src=(/assets/images/manhattan.jpeg) width="1000"/>
 </p>
 
-![picture](/assets/images/manhattan.jpeg)
+
 
 <h1>PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
 
@@ -30,6 +30,8 @@ This project was carried out to function as a tool for analyzing and geospatiall
 <p align="center">
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800"/>
 </p>
+
+![picture](/assets/images/map_snapshot.JPG)
 
 **BAR CHART - Follow the below steps to recreate the bar chart.**
 1.	Open the [final_project_bar_chart.py](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/final_project_bar_chart.py) that you downloaded in step one for PROJECT MAP.
