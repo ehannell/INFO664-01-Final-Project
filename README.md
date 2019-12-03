@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="1000" />
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" width="1000"/>
 </p>
 
 <h1>PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE</h1>
@@ -24,7 +24,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
 <p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800" />
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/map_snapshot.JPG" width="800"/>
 </p>
 
 **BAR CHART - Follow the below steps to recreate the bar chart.**
@@ -34,7 +34,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like this one:
 
 <p align="center">
-<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png" width="500" />
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png" width="500"/>
 </p>
 
 <h3>Project Method/Work Process:</h3>
