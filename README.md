@@ -2,7 +2,7 @@
 ![](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg)
 
 
-**PROJECT NAME: Planned Construction as Untapped Potential Airbnb Revenue**
+**PLANNED CONSTRUCTION AS UNTAPPED POTENTIAL AIRBNB REVENUE**
 
 **Project Overview**
 
