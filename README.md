@@ -23,7 +23,7 @@ This project was carried out to function as a tool for analyzing and geospatiall
 5.	If executed correctly, there should now be an HTML-file named **“airbnb_potential_revenue_NYCmap”** in your local project file directory. This should be the same as the map picured below (afer step 6).
 6.	Open the HTML file and interact with the map. Click on the red data points to see what the total potential Airbnb revenue is per night for the planned construction location. 
 
-![map](/assets/images/map_snapshot.JPG){width=250px}
+![map](/assets/images/map_snapshot.JPG)
 
 
 **BAR CHART - Follow the below steps to recreate the bar chart.**
