@@ -1,5 +1,4 @@
 
-![](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg)
 <img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/manhattan.jpeg" class="img-responsive" alt="">
 
 
@@ -29,8 +28,7 @@ BAR CHART - Follow the below steps to recreate the bar chart.
 3.	Run the **final_project_bar_chart.py** script. 
 4.	If executed correctly, a bar chart should show up on the screen. Download this to the project file directory. The bar chart should look like this one:
 
-![](https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png)
-
+<img src="https://github.com/ehannell/INFO664-01-Final-Project/blob/master/bar_chart.png" class="img-responsive" alt="">
 
 
 **Project Method/Work Process:** 
